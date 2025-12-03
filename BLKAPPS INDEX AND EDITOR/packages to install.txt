@@ -1,0 +1,5 @@
+pip install tkinter  
+pip install json5    
+pip install pillow   
+pip install webbrowser  
+
